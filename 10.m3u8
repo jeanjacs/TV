@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.rti.ci/images/logo_rti1.png" group-title="Pantai Gading",RTI 1https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rti.ci/images/logo_rti1.png" group-title="Pantai Gading",RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rti.ci/images/logo_la_3.png" group-title="Pantai Gading",RTI La 3
+https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rti.ci/webtv/images/logo.png" group-title="Pantai Gading",RTI Web TV
+https://www.enovativecdn.com:4433/rticdn/smil:rtiwebtv.smil/playlist.m3u8
