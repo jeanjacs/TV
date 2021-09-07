@@ -1,3 +1,24 @@
 #EXTM3U
-#EXTINF:-1 COTE D'IVOIRE
+#EXTINF:-1 tvg-id="EuronewsFrancais.fr" tvg-name="Euronews Français" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="French",Euronews Français (720p)
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Francais.fr" tvg-name="France 24 Français" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="French",France 24 Français (1080p)
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="French",France 2 (720p)
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="French",France 2 (720p)
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Francais.fr" tvg-name="France 24 Français" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="French",France 24 Français (1080p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="French",France 3 (720p)
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="French",France 4 (720p)
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="French",France 5 (720p)
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-country="FR;BE;CH;LU" tvg-language="French" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="French",LCI (720p)
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="LFMTV.ch" tvg-name="LFM TV" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="French",LFM TV (1080p)
+https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
+#EXTINF:-1 tvg-id="LN24.be" tvg-name="LN24" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="French",LN24 (1080p)
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 tvg-id="Loupe.us" tvg-name="Loupe" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/604f8d6c7877d40007791af0/solidLogoPNG.png" group-title="French",Loupe (720p)
