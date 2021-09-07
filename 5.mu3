@@ -1,1018 +1,732 @@
-#EXTM3U
-#EXTINF:0,1 - TF1 HD (TNT)
-rtsp://192.168.0.XXX/fbxdvb/stream?tsid=5&nid=8442&sid=1281&frontend=1
-#EXTINF:0,2 - France 2 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
-#EXTINF:0,3 - France 3 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202
-#EXTINF:0,5 - France 5 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203
-#EXTINF:0,7 - Arte (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
-#EXTINF:0,8 - D8 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372
-#EXTINF:0,10 - TMC (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497
-#EXTINF:0,11 - NT1 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374
-#EXTINF:0,12 - NRJ 12 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=sd
-#EXTINF:0,13 - La Chaîne Parlementaire (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=sd
-#EXTINF:0,14 - France 4 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=sd
-#EXTINF:0,15 - BFM TV (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400
-#EXTINF:0,16 - i> TELE (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=679
-#EXTINF:0,17 - D17 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=sd
-#EXTINF:0,19 - France Ô (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=238&flavour=sd
-#EXTINF:0,21 - L'Equipe 21 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994
-#EXTINF:0,23 - Numéro 23 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996
-#EXTINF:0,24 - RMC Découverte (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997
-#EXTINF:0,25 - Chérie 25 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998
-#EXTINF:0,26 - Paris Première (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213
-#EXTINF:0,27 - TEVA (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404
-#EXTINF:0,28 - RTL9 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=sd
-#EXTINF:0,33 - Action (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=sd
-#EXTINF:0,34 - Ciné Polar (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=244&flavour=sd
-#EXTINF:0,35 - Ciné FX (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=243&flavour=sd
-#EXTINF:0,36 - TCM Cinéma (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=684&flavour=sd
-#EXTINF:0,39 - AB 1 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=sd
-#EXTINF:0,46 - beIN SPORTS 1 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=966
-#EXTINF:0,47 - beIN SPORTS 2 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=970
-#EXTINF:0,56 - Paramount Channel (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050
-#EXTINF:0,60 - M6 Music (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=430&flavour=sd
-#EXTINF:0,61 - M6 Music Club (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=431&flavour=sd
-#EXTINF:0,62 - M6 Music Black (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=432&flavour=sd
-#EXTINF:0,63 - Trace Tropical (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769&flavour=sd
-#EXTINF:0,64 - Trace Urban (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=sd
-#EXTINF:0,65 - NRJ Hits (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=620
-#EXTINF:0,68 - Mezzo (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=265&flavour=sd
-#EXTINF:0,70 - MCM (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=621&flavour=sd
-#EXTINF:0,71 - MCM TOP (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=622&flavour=sd
-#EXTINF:0,72 - MCM POP (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=623&flavour=sd
-#EXTINF:0,73 - Clubbing TV (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767
-#EXTINF:0,79 - TV5 Monde (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206
-#EXTINF:0,80 - BFM Business (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897
-#EXTINF:0,81 - Euronews Int (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=949&flavour=sd
-#EXTINF:0,82 - Euronews (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=sd
-#EXTINF:0,83 - Bloomberg TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=207&flavour=sd
-#EXTINF:0,85 - Al Jazeera International (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=494&flavour=sd
-#EXTINF:0,87 - Sky News International (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=355&flavour=sd
-#EXTINF:0,89 - CNBC (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=208&flavour=sd
-#EXTINF:0,90 - LCP - Assemblée Nationale 24h/24 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=sd
-#EXTINF:0,91 - Public Sénat (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=sd
-#EXTINF:0,92 - Campagnes TV (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1029
-#EXTINF:0,94 - Arretsurimages.tv (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=738&flavour=sd
-#EXTINF:0,95 - France 24 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
-#EXTINF:0,96 - France 24 English (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=740&flavour=sd
-#EXTINF:0,97 - France 24 Arab (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=741&flavour=sd
-#EXTINF:0,116 - GONG BASE (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045
-#EXTINF:0,117 - KZTV (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=801
-#EXTINF:0,118 - Game One (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=sd
-#EXTINF:0,121 - Lucky Jack (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891
-#EXTINF:0,123 - Nolife (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=658
-#EXTINF:0,124 - GONG (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813
-#EXTINF:0,131 - Fashion TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=221&flavour=sd
-#EXTINF:0,132 - World Fashion (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=724&flavour=sd
-#EXTINF:0,136 - Trace Sports Stars (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=965
-#EXTINF:0,137 - Equidia Live (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212&flavour=sd
-#EXTINF:0,143 - AB Moteurs (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=sd
-#EXTINF:0,145 - Ginx (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=618&flavour=sd
-#EXTINF:0,148 - Premiere Futebol Clube (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=755&flavour=sd
-#EXTINF:0,151 - Travel Channel (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=772&flavour=sd
-#EXTINF:0,153 - Nautical Channel (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=sd
-#EXTINF:0,155 - Escales (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=sd
-#EXTINF:0,157 - Luxe.TV (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460
-#EXTINF:0,158 - Histoire (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=sd
-#EXTINF:0,159 - Toute l'Histoire (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=sd
-#EXTINF:0,160 - Animaux (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=sd
-#EXTINF:0,163 - Demain.tv (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=227&flavour=sd
-#EXTINF:0,164 - KTO (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=223&flavour=sd
-#EXTINF:0,165 - MyZen.tv (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=770
-#EXTINF:0,167 - 3A Telesud (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=356&flavour=sd
-#EXTINF:0,169 - Souvenirs from Earth (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=sd
-#EXTINF:0,195 - Astro Center TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=415&flavour=sd
-#EXTINF:0,196 - Cash TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=492&flavour=sd
-#EXTINF:0,197 - M6 Boutique & Co (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=359&flavour=sd
-#EXTINF:0,198 - Best of Shopping (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=358&flavour=sd
-#EXTINF:0,199 - Ma Chaîne Etudiante (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=831&flavour=sd
-#EXTINF:0,203 - C Music (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=683&flavour=sd
-#EXTINF:0,204 - VH1 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=233&flavour=sd
-#EXTINF:0,205 - VH1 Classic (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=232&flavour=sd
-#EXTINF:0,207 - Mélody (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=237&flavour=sd
-#EXTINF:0,209 - Relax TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=760&flavour=sd
-#EXTINF:0,300 - France 3 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202
-#EXTINF:0,301 - France 3 Alpes (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=283&flavour=sd
-#EXTINF:0,302 - France 3 Alsace (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=280&flavour=sd
-#EXTINF:0,303 - France 3 Aquitaine (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=284&flavour=sd
-#EXTINF:0,304 - France 3 Auvergne (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=285&flavour=sd
-#EXTINF:0,305 - France 3 Bourgogne (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=279&flavour=sd
-#EXTINF:0,306 - France 3 Bretagne (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=286&flavour=sd
-#EXTINF:0,307 - France 3 Centre (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=287&flavour=sd
-#EXTINF:0,308 - France 3 Champagne-Ardenne (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=288&flavour=sd
-#EXTINF:0,309 - France 3 Corse (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=289&flavour=sd
-#EXTINF:0,310 - France 3 Côte-d'Azur (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=290&flavour=sd
-#EXTINF:0,311 - France 3 Franche-Comté (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=291&flavour=sd
-#EXTINF:0,312 - France 3 Languedoc-Roussillon (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=292&flavour=sd
-#EXTINF:0,313 - France 3 Limousin (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=293&flavour=sd
-#EXTINF:0,314 - France 3 Lorraine (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=294&flavour=sd
-#EXTINF:0,315 - France 3 Midi Pyrénées (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=295&flavour=sd
-#EXTINF:0,316 - France 3 Nord Pas-de-Calais (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=296&flavour=sd
-#EXTINF:0,317 - France 3 Haute-Normandie (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=297&flavour=sd
-#EXTINF:0,318 - France 3 Basse-Normandie (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=298&flavour=sd
-#EXTINF:0,319 - France 3 Paris Ile-de-France (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=257&flavour=sd
-#EXTINF:0,320 - France 3 Pays de Loire (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=299&flavour=sd
-#EXTINF:0,321 - France 3 Picardie (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=300&flavour=sd
-#EXTINF:0,322 - France 3 Poitou-Charentes (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=301&flavour=sd
-#EXTINF:0,323 - France 3 Provence-Alpes (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=302&flavour=sd
-#EXTINF:0,324 - France 3 Rhône-Alpes (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=303&flavour=sd
-#EXTINF:0,330 - Grand Lille TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=826&flavour=sd
-#EXTINF:0,331 - TLT - Toulouse (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=281&flavour=sd
-#EXTINF:0,332 - TV7 Bordeaux (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=268&flavour=sd
-#EXTINF:0,333 - 8 Mont-Blanc (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=319&flavour=sd
-#EXTINF:0,334 - TéléGrenoble (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=423&flavour=sd
-#EXTINF:0,335 - Telif (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=360&flavour=sd
-#EXTINF:0,336 - La Locale (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=363&flavour=sd
-#EXTINF:0,337 - Normandie TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=383&flavour=sd
-#EXTINF:0,338 - Télénantes Nantes 7 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=389&flavour=sd
-#EXTINF:0,339 - La Chaîne Marseille (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=414&flavour=sd
-#EXTINF:0,340 - Clermont Première (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=438&flavour=sd
-#EXTINF:0,341 - TV Tours (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=493&flavour=sd
-#EXTINF:0,343 - BFM Business Paris (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=898&flavour=sd
-#EXTINF:0,344 - IDF 1 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=689&flavour=sd
-#EXTINF:0,345 - Locales Ile de France (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=756&flavour=sd
-#EXTINF:0,346 - Alsace 20 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=753&flavour=sd
-#EXTINF:0,349 - Wéo (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=832&flavour=sd
-#EXTINF:0,350 - TLM (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=267&flavour=sd
-#EXTINF:0,363 - TNA (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=482&flavour=sd
-#EXTINF:0,364 - TVR (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063
-#EXTINF:0,365 - Tébésud (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1064
-#EXTINF:0,366 - Tébéo (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065
-#EXTINF:0,368 - MFM TV (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067&flavour=hd
-#EXTINF:0,401 - beIN SPORTS MAX 3 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=971&flavour=hd
-#EXTINF:0,402 - beIN SPORTS MAX 4 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=972&flavour=hd
-#EXTINF:0,403 - beIN SPORTS MAX 5 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=973&flavour=hd
-#EXTINF:0,404 - beIN SPORTS MAX 6 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=974&flavour=hd
-#EXTINF:0,405 - beIN SPORTS MAX 7 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=975&flavour=hd
-#EXTINF:0,406 - beIN SPORTS MAX 8 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=976&flavour=hd
-#EXTINF:0,407 - beIN SPORTS MAX 9 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=977&flavour=hd
-#EXTINF:0,408 - beIN SPORTS MAX 10 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=978&flavour=hd
-#EXTINF:0,450 - RTB (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=774&flavour=sd
-#EXTINF:0,451 - ORTB (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=810&flavour=sd
-#EXTINF:0,452 - TFM (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=960&flavour=sd
-#EXTINF:0,453 - Canal 2 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=781&flavour=sd
-#EXTINF:0,454 - CRTV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=782&flavour=sd
-#EXTINF:0,455 - STV2 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=783&flavour=sd
-#EXTINF:0,456 - Equinoxe (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=833&flavour=sd
-#EXTINF:0,457 - Trace Africa (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=963&flavour=sd
-#EXTINF:0,458 - Télécongo (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=784&flavour=sd
-#EXTINF:0,461 - RTI (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=941&flavour=sd
-#EXTINF:0,465 - ORTM (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=785&flavour=sd
-#EXTINF:0,466 - 2STV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=786&flavour=sd
-#EXTINF:0,467 - RTS (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=787&flavour=sd
-#EXTINF:0,469 - Africable (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=788&flavour=sd
-#EXTINF:0,475 - Vox Africa (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=773&flavour=sd
-#EXTINF:0,476 - Africabox (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=811&flavour=sd
-#EXTINF:0,477 - Antenne Caraïbes International (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=468&flavour=sd
-#EXTINF:0,480 - Medi1TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=730&flavour=sd
-#EXTINF:0,481 - Canal Algérie (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=274&flavour=sd
-#EXTINF:0,487 - Berbère TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=256&flavour=sd
-#EXTINF:0,488 - Berbère Jeunesse (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=936&flavour=sd
-#EXTINF:0,489 - Berbère Music (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=937&flavour=sd
-#EXTINF:0,499 - CCTV-Documentaire (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=948&flavour=sd
-#EXTINF:0,500 - CCTV4 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=469&flavour=sd
-#EXTINF:0,501 - CCTV-News (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=479&flavour=sd
-#EXTINF:0,502 - CCTV F (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=480&flavour=sd
-#EXTINF:0,503 - CCTV Divertissement (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=470&flavour=sd
-#EXTINF:0,504 - La chaîne chinoise (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=471&flavour=sd
-#EXTINF:0,505 - Beijing TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=472&flavour=sd
-#EXTINF:0,506 - Shanghai Dragon TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=473&flavour=sd
-#EXTINF:0,507 - La chaîne internationale de Jiangsu (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=474&flavour=sd
-#EXTINF:0,508 - Hunan Satellite TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=475&flavour=sd
-#EXTINF:0,509 - Xiamen Star TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=476&flavour=sd
-#EXTINF:0,510 - Zhejiang Star TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=477&flavour=sd
-#EXTINF:0,511 - Guangdong Southern TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=478&flavour=sd
-#EXTINF:0,512 - Phoenix Infonews (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=481&flavour=sd
-#EXTINF:0,513 - Phoenix Chinese News and Entertainment (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=266&flavour=sd
-#EXTINF:0,514 - Zee TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=420&flavour=sd
-#EXTINF:0,515 - Zee Cinema (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=421&flavour=sd
-#EXTINF:0,521 - TV Romania (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=318&flavour=sd
-#EXTINF:0,526 - BBC Entertainment (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=413&flavour=sd
-#EXTINF:0,529 - God TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=386&flavour=sd
-#EXTINF:0,531 - Telesur (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=729&flavour=sd
-#EXTINF:0,532 - Ritmoson Latino (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=407&flavour=sd
-#EXTINF:0,533 - De pelicula (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=408&flavour=sd
-#EXTINF:0,534 - TL Novelas (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=409&flavour=sd
-#EXTINF:0,535 - Canal de las Estrellas (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=410&flavour=sd
-#EXTINF:0,536 - Telehit (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=411&flavour=sd
-#EXTINF:0,537 - TVE I (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=306&flavour=sd
-#EXTINF:0,538 - Canal 24 Horas (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=307&flavour=sd
-#EXTINF:0,539 - ETB Sat (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=371&flavour=sd
-#EXTINF:0,541 - Telenova (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=720&flavour=sd
-#EXTINF:0,542 - Antenna 1 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=771&flavour=sd
-#EXTINF:0,543 - Rai Uno (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=309&flavour=sd
-#EXTINF:0,544 - Rai Due (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=314&flavour=sd
-#EXTINF:0,545 - Rai Tre (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=315&flavour=sd
-#EXTINF:0,547 - RTR Planeta (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=317&flavour=sd
-#EXTINF:0,550 - Sutka City TV (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=983
-#EXTINF:0,550 - Sutka City TV (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=983&flavour=hd
-#EXTINF:0,551 - TVN 24 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=794&flavour=sd
-#EXTINF:0,560 - TV Polonia (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=278&flavour=sd
-#EXTINF:0,561 - TVP Kultura (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=485&flavour=sd
-#EXTINF:0,562 - TVP Info (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=486&flavour=sd
-#EXTINF:0,563 - ITVN (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=795&flavour=sd
-#EXTINF:0,564 - 2M Maroc (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=272&flavour=sd
-#EXTINF:0,565 - TVM Europe (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=273&flavour=sd
-#EXTINF:0,567 - Télévision Tunisienne (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=277&flavour=sd
-#EXTINF:0,568 - Al Masriya (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=275&flavour=sd
-#EXTINF:0,569 - Al Jazeera (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=276&flavour=sd
-#EXTINF:0,570 - Al Jazeera Children (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=412&flavour=sd
-#EXTINF:0,572 - ART Cinema (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=327&flavour=sd
-#EXTINF:0,573 - ART Movies (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=328&flavour=sd
-#EXTINF:0,574 - Al Hekayat (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=330&flavour=sd
-#EXTINF:0,575 - Iqraa (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=331&flavour=sd
-#EXTINF:0,576 - ART Aflam 2 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=332&flavour=sd
-#EXTINF:0,577 - Cima (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=333&flavour=sd
-#EXTINF:0,578 - MBC (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=334
-#EXTINF:0,580 - Hekayat 2 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=336&flavour=sd
-#EXTINF:0,581 - O'TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=685&flavour=sd
-#EXTINF:0,582 - Powertürk TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489&flavour=sd
-#EXTINF:0,583 - TRT1 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=490&flavour=sd
-#EXTINF:0,584 - Kanal D (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=463&flavour=sd
-#EXTINF:0,585 - Star TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=464&flavour=sd
-#EXTINF:0,586 - TRT Cocuk (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=798&flavour=sd
-#EXTINF:0,588 - ATV Avrupa (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=467&flavour=sd
-#EXTINF:0,589 - Kanal 24 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=435&flavour=sd
-#EXTINF:0,590 - TRT INT (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=369&flavour=sd
-#EXTINF:0,591 - Kanal 7 INT (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=370&flavour=sd
-#EXTINF:0,592 - Samanyolu TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=391&flavour=sd
-#EXTINF:0,593 - TVT (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=436&flavour=sd
-#EXTINF:0,594 - Hilal TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=446&flavour=sd
-#EXTINF:0,595 - TV5 Turkey (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=447&flavour=sd
-#EXTINF:0,596 - TGRT EU (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=465&flavour=sd
-#EXTINF:0,599 - Show Turk (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=700&flavour=sd
-#EXTINF:0,601 - GeoTV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=702&flavour=sd
-#EXTINF:0,602 - GeoNews (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=703&flavour=sd
-#EXTINF:0,603 - B4U Movies (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=704&flavour=sd
-#EXTINF:0,606 - Vietnam VTV4 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=723&flavour=sd
-#EXTINF:0,607 - CTN (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=708&flavour=sd
-#EXTINF:0,608 - TVK (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=709&flavour=sd
-#EXTINF:0,609 - KBS (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=761&flavour=sd
-#EXTINF:0,614 - The Israeli Network (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=462&flavour=sd
-#EXTINF:0,616 - Arte Allemand (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=270&flavour=sd
-#EXTINF:0,617 - DW-TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=312&flavour=sd
-#EXTINF:0,626 - RTPi (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=388&flavour=sd
-#EXTINF:0,627 - SIC (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=484&flavour=sd
-#EXTINF:0,636 - TVI  Ficcao (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1059&flavour=sd
-#EXTINF:0,640 - Kuwait TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=717&flavour=sd
-#EXTINF:0,643 - Yemen TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=715&flavour=sd
-#EXTINF:0,644 - Dubai TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=748&flavour=sd
-#EXTINF:0,645 - Abu Dhabi TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=749&flavour=sd
-#EXTINF:0,646 - Baraem (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=750&flavour=sd
-#EXTINF:0,648 - Jordan Satellite Channel (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=718&flavour=sd
-#EXTINF:0,650 - Armenia Public TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=380&flavour=sd
-#EXTINF:0,651 - Armenia TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=751&flavour=sd
-#EXTINF:0,652 - Shant TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=752&flavour=sd
-#EXTINF:0,653 - Vesti (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=792&flavour=sd
-#EXTINF:0,661 - AlMajd Holy Quran (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=807&flavour=sd
-#EXTINF:0,662 - Almajd Al Hadeeth Al Nabawy (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=808&flavour=sd
-#EXTINF:0,663 - AlMajd Space Channel (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=809&flavour=sd
-#EXTINF:0,665 - Azhari TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=817&flavour=sd
-#EXTINF:0,666 - Melody Hits (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=876&flavour=sd
-#EXTINF:0,673 - RTV Pink Plus (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=439&flavour=sd
-#EXTINF:0,674 - RTV Pink Extra (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=440&flavour=sd
-#EXTINF:0,675 - Pink Film (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=889&flavour=sd
-#EXTINF:0,676 - Pink Music (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=890&flavour=sd
-#EXTINF:0,680 - NHK (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812&flavour=sd
-#EXTINF:0,681 - JSTV 1 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=814&flavour=sd
-#EXTINF:0,682 - JSTV 2 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=815&flavour=sd
-#EXTINF:0,685 - Star Vijay (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=968&flavour=sd
-#EXTINF:0,686 - Star Life OK (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=821&flavour=sd
-#EXTINF:0,687 - Star Jalsha (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=822&flavour=sd
-#EXTINF:0,688 - Star plus (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=823&flavour=sd
-#EXTINF:0,689 - Star gold (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=824&flavour=sd
-#EXTINF:0,690 - Channel 1 Russia (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=357&flavour=sd
-#EXTINF:0,694 - Russia Today (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=726&flavour=sd
-#EXTINF:0,695 - Russia Today Espanol (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=856
-#EXTINF:0,696 - TV Globo Internacional (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=722&flavour=sd
-#EXTINF:0,697 - Record Internacional (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=728&flavour=sd
-#EXTINF:0,10001 - Europe 1
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
-#EXTINF:0,10003 - France Inter
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
-#EXTINF:0,10004 - RMC Info
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
-#EXTINF:0,10005 - RTL
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
-#EXTINF:0,10006 - Chérie FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
-#EXTINF:0,10007 - Virgin Radio
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
-#EXTINF:0,10008 - Fun Radio
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1007
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
-#EXTINF:0,10009 - Nostalgie
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
-#EXTINF:0,10010 - NRJ
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
-#EXTINF:0,10011 - RFM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
-#EXTINF:0,10012 - Rire et Chansons
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
-#EXTINF:0,10013 - RTL 2
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
-#EXTINF:0,10014 - Skyrock
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
-#EXTINF:0,10015 - BFM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
-#EXTINF:0,10016 - France Culture
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
-#EXTINF:0,10017 - France Info
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
-#EXTINF:0,10018 - France Musiques
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
-#EXTINF:0,10019 - Radio Classique
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
-#EXTINF:0,10020 - Contact FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
-#EXTINF:0,10021 - FIP
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
-#EXTINF:0,10022 - Le Mouv'
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
-#EXTINF:0,10023 - Nova
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
-#EXTINF:0,10024 - Ouï FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
-#EXTINF:0,10025 - TSF Jazz
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
-#EXTINF:0,10026 - France BLEU - la CityRadio
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
-#EXTINF:0,10027 - RFI
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
-#EXTINF:0,10028 - RFI Multilingues
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
-#EXTINF:0,10029 - OZ Radio
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100008
-#EXTINF:0,10030 - Radio FG
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
-#EXTINF:0,10031 - TEMPOMIX
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100008
-#EXTINF:0,10032 - Fréquence Jazz
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
-#EXTINF:0,10033 - Tropiques FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1008
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100002
-#EXTINF:0,10034 - Beur FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
-#EXTINF:0,10035 - Voltage
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
-#EXTINF:0,10036 - Sud Radio
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
-#EXTINF:0,10037 - Ado FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
-#EXTINF:0,10038 - MplusM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100002
-#EXTINF:0,10039 - RFO Martinique
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1007
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100002
-#EXTINF:0,10040 - Metropolys
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100002
-#EXTINF:0,10041 - Top Music
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
-#EXTINF:0,10042 - Rts FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
-#EXTINF:0,10043 - Evasion FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
-#EXTINF:0,10044 - Radio Scoop
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100009
-#EXTINF:0,10045 - La radio de la mer
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100002
-#EXTINF:0,10046 - Radio 8
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100008
-#EXTINF:0,10047 - MIXXRADIO
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1007
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100012
-#EXTINF:0,10048 - Vibration
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
-#EXTINF:0,10049 - KISS FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100002
-#EXTINF:0,10050 - 1onAir Connect
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100002
-#EXTINF:0,10051 - Radio Mont Blanc
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1007
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
-#EXTINF:0,10052 - Radio Néo
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100007
-#EXTINF:0,10053 - Public Sante Detente
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1007
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
-#EXTINF:0,10054 - Public Sante Famille
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1007
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100008
-#EXTINF:0,10055 - Public Sante Loisirs
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1007
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100009
-#EXTINF:0,10056 - Public Sante Seniors
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1007
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100007
-#EXTINF:0,10061 - Radio Latina
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
-#EXTINF:0,10063 - Espace FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100007
-#EXTINF:0,10064 - Hit West
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100009
-#EXTINF:0,10065 - Radio Public Santé
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
-#EXTINF:0,10066 - MFM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100012
-#EXTINF:0,10067 - STL FM
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1008
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100012
-#EXTINF:0,10068 - FC RADIO L'essentiel
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100012
-#EXTINF:0,10069 - NTI
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100012
-#EXTINF:0,10070 - Web-Station
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1008
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100008
-#EXTINF:0,10071 - Radio Junior
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100002
-#EXTINF:0,10072 - Canal Académie
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100012
-#EXTINF:0,10073 - Corsica Radio
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100009
-#EXTINF:0,10074 - Tropicoa
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100007
-#EXTINF:0,10075 - Oxyradio
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100007
-#EXTINF:0,10076 - Parenthèse Radio
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100008
-#EXTINF:0,10077 - Radio ô
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100009
-#EXTINF:0,10078 - Ultimix
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1008
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
-#EXTINF:0,10079 - 100 %
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100008
-#EXTINF:0,10080 - Netradio
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1008
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
-#EXTINF:0,10081 - France Vivace
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
-#EXTINF:0,10082 - Radio Notre-Dame
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100008
-#EXTINF:0,10084 - Radio Sing Sing
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100012
-#EXTINF:0,10085 - Monte-Carlo Doualiya
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100012
-#EXTINF:0,10086 - Radio Mélodie
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100007
-#EXTINF:0,10087 - Radio Star
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100009
-#EXTINF:0,10088 - SUN
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100007
-#EXTINF:0,10090 - RFO Guadeloupe
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1001
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100014
-#EXTINF:0,10091 - RFO Guyane
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1002
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100014
-#EXTINF:0,10092 - RFO Réunion
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1003
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100014
-#EXTINF:0,10093 - RFO Saint Pierre et Miquelon
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1004
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100014
-#EXTINF:0,10094 - RFO Polynésie
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1005
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100014
-#EXTINF:0,10095 - RFO Nouvelle Calédonie
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1006
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100014
-#EXTINF:0,10096 - RFO Wallis
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1007
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100014
-#EXTINF:0,10097 - RFO Mayotte
-#EXTVLCOPT:ts-es-id-pid
-#EXTVLCOPT:no-video
-#EXTVLCOPT:audio-track-id=1008
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100014
+#EXTINF:-1 group-title="CHAINE TNT",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",France 2
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2394.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",France 3 
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2393.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",Canal+
+http://hls-m001.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/ios-v3-hd-clair/index.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",France 5
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2391.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",M6
+http://188.35.9.9:21121/udp/160z
+#EXTINF:-1 group-title="CHAINE TNT",Arte
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",C8
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2427.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",w9
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2330.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",NRJ 12
+https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CHAINE TNT",LCP
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2381.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",France 4
+http://185.233.185.217:25443/live/V52AfrJTRdOf/eqxJC6ruVx/62236.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",BFM TV
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",CNEWS
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2411.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",Cstar
+http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",Gulli
+http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",France O
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2389.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",TF1 Series Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",L'equipe 21
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2396.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",6ter
+http://188.35.9.9:21121/udp/161x
+#EXTINF:-1 group-title="CHAINE TNT",RMC STORY
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2351.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",RMC DECOUVERTE
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2357.m3u8
+#EXTINF:-1 group-title="CHAINE TNT",CHERIE 25
+https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CHAINE TNT",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",La une
+https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",La deux
+http://rtbf.l3.freecaster.net/live/rtbf/geo/open/012547ec984802a41c6cc2b2e4c81efdf8eff450/ladeux-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",La trois
+http://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Rouge Tv
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w163088706_b1928000.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://www.centraltv.fr/wp-content/uploads/D5MUSIC.jpg",D5 music
+https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://www.centraltv.fr/wp-content/uploads/mycomedy-tv_logo.jpg",My Comedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w921929919_b1928000.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/70/LFMTV.png",LFM TV
+https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w396013240_b3000000.m3u8?spark=3bd53b37-860a-4632-8476-7496a6a3fa35&token=
+#EXTINF:-1 group-title="CHAINES MELANGES",One Tv
+https://edge4.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1719751407_b3000000.m3u8?spark=0ebf8948-87ed-40b2-bbd5-6a756c113142&token=
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="https://tv.directplus.fr/wp-content/uploads/2017/01/rti-1.jpg",RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/master.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/1142_large.png",RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Teletoon 
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Tele quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",RTL9
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2350.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",AB1
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2447.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",AB3
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2446.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",Tv Breizh
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2333.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS" tvg-logo="https://www.chenenoir.fr/wp-content/uploads/2016/05/parispremiere-1.jpg",Paris Premiere
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2362.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",Teva 
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2342.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",Syfy
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2345.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",Serie club
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2347.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",13eme rue
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2450.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",Comedie
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2410.m3u8
+#EXTINF:-1 group-title="CHAINES DIVERTISSEMENTS",MCM 
+http://red.ipfox.org:8080/live/Etronics_5Y#EXTINF:-1 group-title="CHAINES JEUNESSES",Boomerang
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2429.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Boing 
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2430.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Cartoon Network
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2420.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Mangas
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2379.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Tiji 
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2338.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Piwi
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2361.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Teletoon
+http://red.ipfox.org:8080/live/Et#EXTINF:-1 group-title="CHAINES JEUNESSES",Canal J
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2421.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Nickelodeon
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2373.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Nickelodeon4teen
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2374.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Nickelodeon Junior
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2372.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Disney Channel
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2403.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Disney Junior
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2400.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Disney XD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2399.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Disney Cinema
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2401.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Toonami
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2336.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",Game one
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2388.m3u8
+#EXTINF:-1 group-title="CHAINES JEUNESSES",J-one
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2383.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Action
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2445.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Altice studio
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2444.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Tcm cinema
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2344.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Paramount Channel
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2363.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Canal+
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2426.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Canal+ Cinema
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2425.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Canal+ Family
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2424.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Canal+ series
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2423.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Cine+ Frisson
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2413.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Cine+ Premier
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2412.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Cine+ Emotion
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2415.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Cine+ Famiz
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2414.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Cine+ Classic
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2417.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Cine+ Club
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2416.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Ocs City
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2367.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Ocs Geants
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2366.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Ocs Max
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2365.m3u8
+#EXTINF:-1 group-title="CHAINES CINEMAS",Ocs Choc
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2368.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",MCM POP
+http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",NRJ Hits Tv
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Fun Radio Tv
+https://rtlfr.live.6cloud.fr/out/u/6play/fun_c_5.m3u8?m=1543484330
+#EXTINF:-1 group-title="CHAINES MUSIQUES",NRJ TV
+https://energytv.vedge.infomaniak.com/livecast/energytv/chunklist_w1905963963.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Trace urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Trace tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/5/prog_index.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Trace africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/5/prog_index.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Trace toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Trace naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/5/prog_index.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Trace mizki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/2/prog_index.m3u8??
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Trace Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/5/prog_index.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Trace ayiti
+http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Trace latina
+http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/4/prog_index.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Pure Vision
+https://rtbf.l3.freecaster.net/live/rtbf/geo/open/3e4edc0e2eb0fa293559e6b83d037273e335a053/purevision-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Bel Rtl
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1 group-title="CHAINES MUSIQUES",Rts couleurs 3
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
+
+
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/top_tv_movies.png",Top Movies
+http://connectiktv.ddns.net:5000/toptv/toptv/chunklist_w686298307.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/top_tv_movies.png",Top Movies 
+http://connectiktv.ddns.net:5000/toptv/toptv/chunklist_w686298307.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="https://i.ytimg.com/vi/PymF6Oo5QDc/maxresdefault.jpg",A12Tv
+http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://haitien.tulix.tv/channels/logo/tele-variete.jpg",TVA 30 
+https://hbiptv.live/tva/30/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://haitien.tulix.tv/channels/logo/tele-pacific.png",Tele pacific
+http://18.224.188.238/hls/pasif.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://haitien.tulix.tv/channels/logo/tele-6-univers.png",Tele 6 univers
+http://www.haititivi.com:8088/tele6website/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/telehaiti.jpg",Tele Haiti
+http://66.175.238.147:1935/live/myStream/chunklist.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="https://cdn-profiles.tunein.com/s297762/images/bannerx.jpg?t=636637165675230000",Tele Hirondelle
+http://stream.hbiptv.live:8080/rtvh_app/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://haitien.tulix.tv/channels/logo/thm-tv.jpg",Television haitienne de montreal
+http://lakay.online/website/player/tchhaiti/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://haitien.tulix.tv/channels/logo/t-l-soleil.jpg",Tele Soleil
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_2.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://haitien.tulix.tv/channels/logo/tele-ginen-live-.jpg",Tele Ginen
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_2.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://iptv.haitiendirect.com/channels/logo/tnh.jpg",TNH
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_nhaiti/as/live/hln_nhaiti_4.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/04/mytv-channel-hd.jpg",My Tv Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist_w1860252592.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2020/02/WINTER-CHANNEL.jpeg",Winter Channel
+http://connectiktv.ddns.me:5000/winterchannel/winterchannel/chunklist_w992666524.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/Logo-3-2-300x150.png",Exel Discovery
+http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist_w666188149.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/07/NEW-LOGO0047_00000_00000-300x169.png",Afrique plus
+http://connectiktv.ddns.net:8080/afrik+/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/leader-cable.jpg",Leader cable
+http://connectiktv.ddns.net:5000/leadercable/leadercable_360p/chunklist_w1784933164.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/04/logo-plex-300x228.jpg",Plex Tv
+http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w1073138473.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/04/EMERGENCE-TV-300x169.jpg",Emergence Tv
+http://connectiktv.ddns.net:5000/emergencetv/emergencetv/chunklist_w273602523.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2020/04/logos-channel-300x140.jpg",Logos channel
+http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist_w760994696.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/11/skyone-tv-300x169.jpeg",Sky one tv
+http://41.223.30.250:5000/skyonetv/skyonetv/chunklist_w2042186554.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2020/01/CTV-1-300x212.jpeg",CTV Afrique
+http://connectiktv.ddns.net:8080/Consotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/08/reveille-des-nations-1.png",Paradis tv
+http://41.223.30.250:5000/paradistv/paradistv/chunklist_w781859219.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/11/mango-tv.jpg",Mango Tv
+http://connectiktv.ddns.net:5000/mangotv/mangotv/chunklist_w773106508.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2020/02/36683015_264656747420570_4577876516909613056_n-300x300.jpg",Grace Tv
+http://connectiktv.ddns.net:5000/gracetv/gracetv/chunklist_w967628989.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" http://connectik.tv/wp-content/uploads/2019/06/a-voir-bienzz-copie-300x40.png",Repentance Tv
+http://connectiktv.ddns.net:5000/repantence/repantence/chunklist_w577088558.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/04/logo_other-channel-300x169.jpg",Other Channel
+http://connectiktv.ddns.net:5000/otherchannel/otherchannel@/chunklist_w1532786608.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg",Dream Channel
+http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist_w1424141727.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/12/LOGO-HTV-Cadre-Micro-Htv-Carr%C3%A9-PNG-300x226.png",H-TV
+http://connectiktv.ddns.net:8080/htv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/04/TDTPtTAU_400x400.jpg",Golden House
+http://connectiktv.ddns.net:5000/goldentv/goldentv/chunklist_w1584512979.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/07/RCGTV-e1557062318611-300x300.jpeg",RCG TV
+http://connectiktv.ddns.me:5000/rcgtv/rcgtv/chunklist_w1182014183.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/04/logo-play-tv-300x113.jpg",Play Tv
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist_w1096803701.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/mygospel-300x140.png",My gospel
+http://connectiktv.ddns.me:5000/mygospel/mygospel.stream/chunklist_w302842659.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/07/vibe-300x77.jpg",Vibe Tv
+http://connectiktv.ddns.net:5000/vibetv/vibetv/chunklist_w47943473.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/hip-hop-tv-300x300.png",Hip Hop Tv
+http://41.223.30.250:8080/hiphoptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/06/c4c115d6-e7c7-4d82-af85-b6b95040b93f-300x169.jpg",Beauty africa Tv
+http://connectiktv.ddns.me:8080/beautyafrica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/AFROBIT-png-300x168.png",Afrobit 
+http://connectiktv.ddns.net:8080/afrobit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/06/AFRIK-300x120.jpeg",Regard d'afrik Tv
+http://connectiktv.ddns.me:5000/regardafrique/regardafrique/chunklist_w1383528526.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://connectik.tv/wp-content/uploads/2019/11/DIASPO2TV-1-300x189.jpeg",Diaspo2tv
+http://connectiktv.ddns.net:5000/diaspo2tv/diaspo2tv/chunklist_w1254566133.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://haitien.tulix.tv/channels/logo/kajou-tv-ch9.jpg",Kajou channel 9
+https://video1.getstreamhosting.com:1936/8800/8800/chunklist_w130014571.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES" tvg-logo="http://www.centraltv.fr/wp-content/uploads/guineetv1-logo.jpg",Guinee TV1 
+http://208.167.242.100:5080/LiveApp/streams/678183951296171960442515.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Radio tele amen 
+http://184.173.179.163:1935/daniel/daniel/chunklist_w187470786.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Radio tele puissance
+https://video1.getstreamhosting.com:1936/8560/8560/chunklist_w867723943.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",West africa tv
+https://stream-06.dc3.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NME0hcuXroV3i6PrphZwDvzQA)/dm/3/x6vbjdp/d/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",Guineebuzz
+https://stream-15.dc3.dailymotion.com/sec(b2ly56vqV33i3jvQTS0zLOXJkgzdtPf_CJ_G6vWNA8U)/dm/3/x655zsl/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",Evasion guinee
+http://96.30.196.193:5080/LiveApp/streams/267678165608946434217823.m3u8
+
+#EXTINF:-1 group-title="CHAINES MELANGES",Gospel Tv Canada
+https://5790d294af2dc.streamlock.net/8260/8260/chunklist_w1136119764.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Diaspora Tv 24
+https://stream-01.dc3.dailymotion.com/sec(cJHE1fieFQVo8pNiUYcfEDyncCaaCBR0n2vFlGkfgVQ)/dm/3/x6cq41k/s/live-1.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",Tele Culturelle Medias
+https://5790d294af2dc.streamlock.net/8150/8150/chunklist_w93020473.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Ici Television
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/59f8cf257de98a7e0db5ea592e9e081b/1.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Afroculture
+https://stream-08.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZeXo7osQMdvTSlpPRKlYonA)/dm/3/x7t09ft/s/live-2.m3u8#cell=lcore&qos_vpart=1
+
+#EXTINF:-1 group-title="CHAINES MELANGES",TMA Caraibes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Bip Tv
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",BFM Grand Lille
+http://str81.creacast.com/grandlilletv/high/chunklist_w1267629476.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",RT Francais
+https://rt-france.secure.footprint.net/1107_1600Kb.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Via MaTele
+https://streamer03.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Via Mirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist_w598486407_b1496000.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Monde du loisir Tv
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist_w1265440117_b2000000_t64SGlnaA==.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",TV78
+https://origin1.dvmr.fr/hls/tvfil78/tvfil78-500k/index.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",TVR Rennes 35 Bretagne
+https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/ngrp:tv7_Wifi/chunklist_w1351881989_b1315536.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",TVPI Bayonne
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w605959703.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",TebeSud
+https://edge-live-ger1.ovstream.com/hls/10/540p.m3u8?token=live_10_0eef19b825d82cd03d2e25934c88b5a4
+#EXTINF:-1 group-title="CHAINES MELANGES",Tebeo
+https://edge-live-ger1.ovstream.com/hls/11/540p.m3u8?token=live_11_23fa925caed55bc85df9281de1533c9c
+#EXTINF:-1 group-title="CHAINES MELANGES",Monaco Info
+https://fbion.com/en/get-youtube-thumbnail.html#data=%7B%22u%22%3A%22http%3A%2F%2Fwww.centraltv.fr%2Ftelevision-francaise%2Fmonaco-info%22%2C%22images%22%3A%5B%22http%3A%2F%2Fwww.centraltv.fr%2Fwp-content%2Fuploads%2Fmonaco-info_logo.jpg%22%2C%22http%3A%2F%2Fwww.centraltv.fr%2Fwp-content%2Fuploads%2FMCInfo3.png%22%5D%2C%22ids%22%3A%5B%5D%2C%22v%22%3A%223.0%22%7D
+
+#EXTINF:-1 group-title="CHAINES MELANGES",Weo HD
+https://stream-07.ix7.dailymotion.com/sec(BL70jlKo4tGRkEGgNbONw8WSPdt_ZiGHmSJlGJ4V-Lc)/dm/3/x62islg/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",TV8 Mont Blanc
+https://stream-02.dc3.dailymotion.com/sec(83LlaZiAJCzMRX6-TfWr_7WVxd1-rQAQNzDBdbLMHPg)/dm/3/x71o73v/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",TV7 Bordeaux
+https://stream-08.dc3.dailymotion.com/sec(Gyc0INqj0EpvK3i1I2v6pXrXuhyFA1mwllz11SoLpao)/dm/3/x46ancl/d/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",Tv Tours
+https://stream-06.ix7.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf68uh3JuTFiFFIU4UyGp45iI)/dm/3/x7srbgw/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",TL7
+https://stream-04.dc3.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwP9d5G6ZOgMn8KN7JhO-608)/dm/3/x5ct4nu/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",TeleNantes
+https://stream-01.ix7.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4SjKuVfpxwEujjp88nzIxZc)/dm/3/x5so98l/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",TeleGrenoble
+https://stream-10.ix7.dailymotion.com/sec(IiyxSeU9WF7kmMjaMv3ej5HdQo3QU7PbBOeYD_woIkU)/dm/3/x128fjo/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",Mouv Tv
+https://stream-07.dc3.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDGU-KWRtAZuK3-5mM2Dfa6w)/dm/3/x5ddv09/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",LMTV Sarthe
+https://stream-03.dc3.dailymotion.com/sec(oOfclVUK5ZJ4gacFxYFW3JB79mqDB9hc68DmdbZ3srg)/dm/3/xuyx0h/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",Ere Tv
+https://playback2.akamaized.net/streams/7861901_8505052_lsiwi5hyr7mvjp9sgay_1/exp=1589746295~acl=%2f*~data=hdntl~hmac=4699906b57a2a65ed0187218cb6c9cb0dd9c46cd4c64274e3af6eb0361f7dcfb/media/7861901_8505052_lsiwi5hyr7mvjp9sgay_1@1756000p.m3u8?dw=14400&ts=1589659200
+#EXTINF:-1 group-title="CHAINES MELANGES",Dici Tv
+https://edge10.vedge.infomaniak.com/livecast/ik:dciwebcam/chunklist_w1325597075.m3u8?spark=bd945489-eeb0-4cd7-b94c-d4d262359617&token=
+#EXTINF:-1 group-title="CHAINES MELANGES",Azur Tv
+https://stream-06.dc3.dailymotion.com/sec(Xio92lQyFXPlwj6tYdjikrv6kdrhsrEsqYoZ2KLCyc4)/dm/3/x630sku/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",Solary tv
+https://video-weaver.cdg02.hls.ttvnw.net/v1/playlist/CrwE-T7nGZVz2-YbZxh5QwaFlyPBtB7z5QkhjZkpL-i5V7Yuegow_McOOjiA7EMx7Eovbwp4jkQkgLn3wFkhYpaFazTAgvv2aPYY9BKpLGj6peNli4q2tW0D9dGH398udepzwKGYkMDFn5-TC05fT9BN2tamFVH3qF5_6iP1g3xxyj9dPaLEBG-YhKX7pwXysAMWSL7Cyc-WaOhi9jC2OlX4h73lLJoOsKk1v44nJvqqocKD9yfer5kPCcqGANG5FQMhblFgSQC-LL2Xyg-ZJM751o627dj6PilvR6y7xNHWEN1QRlqU355J9pm7di0LgvCR-acNhcVmLa-l55SGzfcjp6B2VL6k9R6GbxsswqltGLaMSHr5B17HKtYymjsro1cIMuc9mn5LfZ7n_S1sSAMGjVzWJ9wMBBd5gtdvlkCNb6QJo55G11-_U-0N_jiW3_k7GPG2FZac7Xgu03lwDIgw9sAkpm24YH1NKp5Futs97zXl3iKOa2usDba_q7zCur-ESRRsX_hZ3gkmW2Q-7BHrRl7131QfofkHTeyFxziAU6cpNJ5h33adcFwk3KZRjUFGEyur26E2MNvcSkin9HExYQcBWLEJARKRMk5ptpKlnfvBuGWnP4vXq0jTSzqeNOY85IAH9YarJFvXUTARH2VAKIwOeP7XWMfvYRXtwSkEob9vFn6UMK2F0NXr5xstgJGTSMnWL1iyyWlRkDMP-6F1y3YXXJjCd23OmANi1chqosYlqpU7HuquP_g1flISEHOphDbXWco3_Y73m0Tq6e4aDHAgP5gd2aqTvm4Srw.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Nancy web tv
+https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/chunklist_w320513827.m3u8?spark=f396b926-c3aa-489b-a8c8-f155ad013c51&token=
+#EXTINF:-1 group-title="CHAINES MELANGES",Tv vendee
+https://stream-07.ix7.dailymotion.com/sec(5YQ8CtXO7y0DBfIVrUa1Rcsqfrh5VOoG3mTm4G9RcPY)/dm/3/x38yjeb/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",Alpe tv dhuez
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist_w730788308.m3u8?spark=72381f27-270f-411c-865b-b815909b3a47&token=
+#EXTINF:-1 group-title="CHAINES MELANGES",4Tv guadeloupe
+https://dcunilive18-lh.akamaihd.net/i/dclive_1@189477/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1589748821~acl=%2fi%2fdclive_1%40189477*~data=hdntl~hmac=5c0a7f0a4c9f7d856b6a18533cc93cde26f81ceeb2e9e5de59ea568319645983
+#EXTINF:-1 group-title="CHAINES MELANGES",ANN Tv
+http://vod.acangroup.org:1935/output/anntv.stream/chunklist_w364537869.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Africa gospel
+https://edge5.vedge.infomaniak.com/livecast/ik:africagospeltv/manifest.m3u8?spark=3011e326-1d64-4f80-8228-9ce425b622f1&token=
+#EXTINF:-1 group-title="CHAINES MELANGES",Lumiere tv
+http://gamako.livebox.co.in/lumieretvhls/lumieretvci.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",CIS TV
+http://51.81.109.113:1935/CDNLIVE/CISTV/chunklist_w1808082720.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Ecclesiatv
+http://gamako.livebox.co.in/Ecclesiatvhls/etvci.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Surnaturel Tv
+https://stream-06.dc3.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZcL8pEc6AIlSaheHvRCsCd4)/dm/3/x7t0ln7/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1&ab_betamark=4
+#EXTINF:-1 group-title="CHAINES MELANGES",NTV Cote d ivoire
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/chunks.m3u8?nimblesessionid=68422315
+#EXTINF:-1 group-title="CHAINES MELANGES",RTJ TV
+http://public.acangroup.org:1935/output/rtjtv.stream/chunklist_w1228106201.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Africa 4
+https://edge2.vedge.infomaniak.com/livecast/ik:afri4/chunklist_w2016545362_DVR.m3u8?spark=86897fa4-8c7d-4ffb-86b7-f0d9ef493ad6&token=
+#EXTINF:-1 group-title="CHAINES MELANGES",MBM TV
+http://secure.2mstream.com:8081/mbm/mbm/chunks.m3u8?nimblesessionid=1086864
+#EXTINF:-1 group-title="CHAINES MELANGES",Africa 7
+https://stream-05.ix7.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZWrDiaPnQ2WtaCGiRZSPZwE)/dm/3/x7te5yu/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="CHAINES MELANGES",My movies fr 
+http://connectiktv.ddns.me:5000/mymoviefr/mymoviefr.stream/chunklist_w1298073312.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Real black 
+http://connectiktv.ddns.me:5000/realblack/realblack.stream/chunklist_w743728570.m3u8
+
+#EXTINF:-1 group-title="CHAINES MELANGES",Tele spiral
+https://video-cdg2-1.xx.fbcdn.net/v/t42.1790-29/10000000_1333887420114138_1501794006902979025_n.mp4?_nc_cat=110&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfbGl2ZV9xZF9mcmFnXzJfdmlkZW8ifQ%3D%3D&_nc_ohc=0PmcTGgYWd8AX-pgiIe&_nc_ht=video-cdg2-1.xx&oh=346a498a1d8b9fedc1460597b9a3c2f5&oe=5EC14C35
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="",Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/DRUNmHQ.png" group-title="",B-One TV
+https://stream.ecable.tv/b-one/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/IEM93cd.png" group-title="",RTNC
+https://stream.ecable.tv/rtnc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/Csb9UFe.jpg" group-title="",Télé 50
+https://stream.ecable.tv/tele50/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png" group-title="",RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/qJ4ykc8.png" group-title="",GC TV
+https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="",Chaine Nord-Africaine
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="",Tele-V
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="",Télé-Québec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="Local",Antenne Centre
+http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" group-title="",Bel RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/JJcnXUF.png" group-title="",Canal C
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/JJcnXUF.png" group-title="",Canal C
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w1917584225.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uoSMNnr.png" group-title="Local",Canal Zoom
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="News",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w798871553.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="Music",NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg" group-title="Music",Radio Contact Vision
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="",RTL-TVi
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="Local",Telesambre
+https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="Local",TVCom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/e7xUgDm.png" group-title="Local",Télé MB
+http://tvl-live.l3.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="",BipTV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",DBM
+https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ZEA3az8.png" group-title="",Grand Lille TV
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="",Holygod TV Europe & Middle East
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="I24news FR" tvg-name="I24news FR" tvg-language="French" tvg-logo="https://i.imgur.com/pA3oGAU.png" group-title="News",i24 News
+https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="",ILTV
+http://str81.creacast.com:80/iltv/high/playlist.m3u8
+#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/X9U6AqK.png" group-title="",Persiana 1
+http://51.15.229.209/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="",Radio Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="",RMC
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
+http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="",TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="",TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="",TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="",TVR
+https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="Music",TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/fPJqdGy.png" group-title="",Impact TV
+https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
+http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
+https://lakay.haitilive.net/hb/nagotv/web/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/8AWBgau.jpg" group-title="",Opa TV
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" group-title="",Radio Tele Ginen | Chaine 18
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="",Radio TeleBoston (USA)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yYoEk8m.png" group-title="",Tele Eclair | Chaine 4
+http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_eclair/as/live/hln_eclair_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/5nYeBNN.jpg" group-title="",Tele Haiti
+http://66.175.238.147:1935/live/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/vZmlq9N.jpg" group-title="",Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tgvN6s3.jpg" group-title="",Tele Soleil
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/dmRO6Ek.jpg" group-title="",Tele Univers | Chaine 6
+https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/U0lmqsT.jpg" group-title="",A2i TV
+http://162.212.178.131:1935/live/Ai2tv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/QMzYNJf.jpg" group-title="Music",A2i TV Musique
+http://162.212.178.131:1935/live/Ai2tvmusique/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" group-title="Music",Leeeko TV
+http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/jV1IyRU.jpg" group-title="",Mouride TV
+http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
+
+#EXTINF:-1 group-title="CHAINES MELANGES",TMA Caraibes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",A2iTv
+http://162.212.178.131:1935/live/Ai2tv/chunklist_w1774564959.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 group-title="CHAINES MELANGES",Gong
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/FranceO.fr.png" group-title="Français",France Ô
+http://51.15.3.161:8080/france0/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" group-title="Français",France 2
+http://51.15.3.161:8080/france2/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" group-title="Français",France 3
+http://51.15.3.161:8080/france3/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France4.fr.png" group-title="Français",France 4
+http://51.15.3.161:8080/france4/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" group-title="Français",France 5
+http://51.15.3.161:8080/france5/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Boing.es.png" group-title="Français",BOING Français
+http://51.15.3.161:8080/boing/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Français",DBM
+https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Gulli.fr.png" group-title="Français",Gulli
+http://51.15.3.161:8080/Gulli/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="Français",M6
+http://51.15.3.161:8080/M6/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="Français",Piwi
+http://51.15.3.161:8080/Piwi/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Teva.fr.png" group-title="Français",Téva
+http://51.15.3.161:8080/Teva/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="Français",TV5 Monde Europe
+http://ott.artmott.com/Tv5Monde/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/TV5Monde.gif" group-title="Français",TV5 Maghreb-Orient
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
+#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1 tvg-logo="http://static.lci.fr/assets/images/logo_lci.png" group-title="Français",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/TMC.fr.png" group-title="Français",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/TF1.fr.png" group-title="Français",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="Français",TF1 Séries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/TFX.fr.png" group-title="Français",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/TraceUrban.za.png" group-title="Français",Trace Urban Français
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_GzQnzaF4k-o/RY6TYuuc7FI/AAAAAAAAAcs/CGhPH4h1CoU/s400/kto.jpg" group-title="Français",KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 tvg-logo="https://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/W9.fr.png" group-title="Français",W9
+http://51.15.3.161:8080/W9/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg" group-title="Français",EMCI TV Paris
+https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
+#EXTINF:-1 tvg-logo="http://languedutravail.org/sites/default/files/tv-francophonie_3.jpg" group-title="Français",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-logo="http://www.grandlille.tv/wp-content/uploads/2018/10/grand-lille-info-tv-logo.png" group-title="Français",Grand Lille TV 
+http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
+#EXTINF:-1 tvg-logo="http://www.gongnetworks.com/images/logo.jpg" group-title="Français",Gong
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.gongnetworks.com/images/bt-gongmax-hover.jpg" group-title="Français",Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://media.info/i/lf/300/1504905935/6907.png" group-title="Français",La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2017/05/logo-large.png" group-title="Français",MyComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1206940189203062784/ldPsnLQU_400x400.jpg" group-title="Français",Stad'afric
+https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_T%C3%A9b%C3%A9o.svg/1200px-Logo_T%C3%A9b%C3%A9o.svg.png" group-title="Français",Tébéo
+https://live2.awedia.com/hls/tebeo_hi.m3u8
+#EXTINF:-1 tvg-logo="http://www.tv3v.fr/images/logo_tv3v.png" group-title="Français",TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="http://i0.wp.com/quizho.com/wp-content/uploads/2019/08/t%C3%A9l%C3%A9chargement-42.jpg" group-title="Français",TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg" group-title="Français",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvr.bzh/sites/default/files/logo.png" group-title="Français",TVR Bretagne
+https://origin1.dvmr.fr/hls/tvr/tvr.m3u8
+#EXTINF:-1 tvg-logo="http://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="Français",TVM Est parisien
+https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png" group-title="Français",TMA Caraïbes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://viaoccitanie.tv/fileadmin/via_main/img/logos/viaOccitanie-header.png" group-title="Français",Vià Occitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+
+
+#EXTINF:-1,01TV NET
+https://stream-08.ix7.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIalk8Nyd6d0IQ7ESRFjRA95HQ)/dm/3/x7pctg0/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1&ab_betamark=4
+
+
+
+#EXTINF:-1,Gulli doo
+https://gulli-hls-replay.akamaized.net/69188177700000/69188177700000_ipad.smil/69188177700000_ipad-audio=64000-video=750000.m3u8
+#EXTINF:-1,Gulli go
+https://gulli-hls-replay.akamaized.net/68991863147000/68991863147000_ipad.smil/68991863147000_ipad-audio=64000-video=750000.m3u8
+#EXTINF:-1,Gulli pop
+https://gulli-hls-replay.akamaized.net/68991926273000/68991926273000_ipad.smil/68991926273000_ipad-audio=64000-video=750000.m3u8
+#EXTINF:-1,Gulli good
+https://gulli-hls-replay.akamaized.net/69096738415000/69096738415000_ipad.smil/69096738415000_ipad-audio=64000-video=750000.m3u8
+#EXTINF:-1,Gulli famille
+https://gulli-hls-replay.akamaized.net/69317577157000/69317577157000_ipad.smil/69317577157000_ipad-audio=64000-video=750000.m3u8
+#EXTINF:-1,Gulli plus grand
+https://gulli-hls-replay.akamaized.net/69317591375000/69317591375000_ipad.smil/69317591375000_ipad-audio=64000-video=750000.m3u8
+#EXTINF:-1,Gulli la selection
+https://gulli-hls-replay.akamaized.net/69317591375000/69317591375000_ipad.smil/69317591375000_ipad-audio=64000-video=750000.m3u8
+#EXTINF:-1,Gulli trop bien chez toi
+https://gulli-hls-replay.akamaized.net/69301147793000/69301147793000_ipad.smil/69301147793000_ipad-audio=64000-video=750000.m3u8
+#EXTINF:-1 group-title="CHAINE TNT 2",TF1 
+http://77.205.39.233:9981/stream/channelid/731392009?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",France 2
+http://77.205.39.233:9981/stream/channelid/855507770?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",France 3
+http://77.205.39.233:9981/stream/channelid/68099984?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",Canal+
+http://77.205.39.233:9981/stream/channelid/41415621?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",France 5
+http://77.205.39.233:9981/stream/channelid/1323072159?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",M6
+http://77.205.39.233:9981/stream/channelid/79380855?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",Arte
+http://77.205.39.233:9981/stream/channelid/65860850?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",C8
+http://77.205.39.233:9981/stream/channelid/1704139356?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",W9
+http://77.205.39.233:9981/stream/channelid/988717511?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",TMC
+http://77.205.39.233:9981/stream/channelid/1205718269?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",TFX
+http://77.205.39.233:9981/stream/channelid/1604257733?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",NRJ 12
+http://77.205.39.233:9981/stream/channelid/804658937?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",LCP
+http://77.205.39.233:9981/stream/channelid/1899963721?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",France 4 
+http://77.205.39.233:9981/stream/channelid/1407332937?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",BFM TV
+http://77.205.39.233:9981/stream/channelid/978536021?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",CNEWS
+http://77.205.39.233:9981/stream/channelid/844381409?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",CSTAR
+http://77.205.39.233:9981/stream/channelid/1300642297?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",GULLI
+http://77.205.39.233:9981/stream/channelid/253388404?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",FRANCE O
+http://77.205.39.233:9981/stream/channelid/1969303277?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",TF1 Series Films
+http://77.205.39.233:9981/stream/channelid/1060080099?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",L'EQUIPE
+http://77.205.39.233:9981/stream/channelid/474892659?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",6TER
+http://77.205.39.233:9981/stream/channelid/1355957598?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",RMC STORY
+http://77.205.39.233:9981/stream/channelid/275209755?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",RMC DECOUVERTE
+http://77.205.39.233:9981/stream/channelid/1569323482?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",CHERIE 25
+http://77.205.39.233:9981/stream/channelid/429055815?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",LCI
+http://77.205.39.233:9981/stream/channelid/1886278430?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",FRANCE INFO
+http://77.205.39.233:9981/stream/channelid/207984836?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",IDF1
+http://77.205.39.233:9981/stream/channelid/2025008669?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",CANAL 31
+http://77.205.39.233:9981/stream/channelid/308697356?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",Via GrandParis
+http://77.205.39.233:9981/stream/channelid/1160610505?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",TV FIL 78
+http://77.205.39.233:9981/stream/channelid/1128411447?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",BFM PARIS
+http://77.205.39.233:9981/stream/channelid/1811488103?profile=pass
+#EXTINF:-1 group-title="CHAINE TNT 2",RMC SPORT NEWS
+http://77.205.39.233:9981/stream/channelid/652508950?profile=pass
