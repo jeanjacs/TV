@@ -1,0 +1,170 @@
+﻿#EXTM3U
+
+#EXTINF:-1,AF | AFRICA TV 1.
+http://163.172.103.172:8005/live/123454321/123454321/5098.ts
+#EXTINF:-1,AF | AFRICA TV 2
+http://163.172.103.172:8005/live/123454321/123454321/5099.ts
+#EXTINF:-1,AF | AFRICA TV 3
+http://163.172.103.172:8005/live/123454321/123454321/5100.ts
+#EXTINF:-1,AF | AFRO_BEATS_1
+http://163.172.103.172:8005/live/123454321/123454321/2765.ts
+#EXTINF:-1,AF | AFRO_BEATS_2
+http://163.172.103.172:8005/live/123454321/123454321/2764.ts
+#EXTINF:-1,AF | BELIEVE_TV
+http://163.172.103.172:8005/live/123454321/123454321/2791.ts
+#EXTINF:-1,AF | BEN
+http://163.172.103.172:8005/live/123454321/123454321/2790.ts
+#EXTINF:-1,AF | BENIN | CANAL_225_TV
+http://163.172.103.172:8005/live/123454321/123454321/2787.ts
+#EXTINF:-1,AF | CHANNEL_AKA
+http://163.172.103.172:8005/live/123454321/123454321/2785.ts
+#EXTINF:-1,AF | CHANNELS_24
+http://163.172.103.172:8005/live/123454321/123454321/2789.ts
+#EXTINF:-1,AF | CONGO | DIGITAL
+http://163.172.103.172:8005/live/123454321/123454321/2780.ts
+#EXTINF:-1,AF | COTE_D.IVOIRE | RTI_1
+http://163.172.103.172:8005/live/123454321/123454321/2769.ts
+#EXTINF:-1,AF | COTE_D.IVOIRE | RTI_2
+http://163.172.103.172:8005/live/123454321/123454321/2768.ts
+#EXTINF:-1,AF | GHANA | AFRICA_TV_1
+http://163.172.103.172:8005/live/123454321/123454321/2793.ts
+#EXTINF:-1,AF | GHANA | CONTINENTAL_TV
+http://163.172.103.172:8005/live/123454321/123454321/2786.ts
+#EXTINF:-1,AF | GHANA | KESSBEN_TV
+http://163.172.103.172:8005/live/123454321/123454321/2777.ts
+#EXTINF:-1,AF | GHANA | RTV
+http://163.172.103.172:8005/live/123454321/123454321/2767.ts
+#EXTINF:-1,AF | MUSIC_TV_AFRICA
+http://163.172.103.172:8005/live/123454321/123454321/2779.ts
+#EXTINF:-1,AF | NIGERIA | EMMANUEL TV
+http://163.172.103.172:8005/live/123454321/123454321/2782.ts
+#EXTINF:-1,AF | NIGERIA | RAVE_TV
+http://163.172.103.172:8005/live/123454321/123454321/2766.ts
+#EXTINF:-1,AF | NIGERIA | TVC
+http://163.172.103.172:8005/live/123454321/123454321/2774.ts
+#EXTINF:-1,AF | RTS 1
+http://163.172.103.172:8005/live/123454321/123454321/5113.ts
+#EXTINF:-1,AF | SENEGAL | DIASPORA_24
+http://163.172.103.172:8005/live/123454321/123454321/2783.ts
+#EXTINF:-1,AF | SENEGAL | DTV
+http://163.172.103.172:8005/live/123454321/123454321/2781.ts
+#EXTINF:-1,AF | SENEGAL | MOURCHID_TV
+http://163.172.103.172:8005/live/123454321/123454321/2778.ts
+#EXTINF:-1,AF | SIKKA TV.
+http://163.172.103.172:8005/live/123454321/123454321/5110.ts
+#EXTINF:-1,AF | SOMALI | NATIONAL_TV
+http://163.172.103.172:8005/live/123454321/123454321/2771.ts
+#EXTINF:-1,AF | SOMALI | UNIVERSAL_TV
+http://163.172.103.172:8005/live/123454321/123454321/2770.ts
+#EXTINF:-1,AF | SOUTH_AFRICA | ANN
+http://163.172.103.172:8005/live/123454321/123454321/2794.ts
+#EXTINF:-1,AF | SUADAN | DBANGA
+http://163.172.103.172:8005/live/123454321/123454321/2784.ts
+#EXTINF:-1,AF | SUDAN | AFRICA_TV_1
+http://163.172.103.172:8005/live/123454321/123454321/2759.ts
+#EXTINF:-1,AF | SUDAN | AFRICA_TV_2
+http://163.172.103.172:8005/live/123454321/123454321/2775.ts
+#EXTINF:-1,AF | SUDAN | AFRICA_TV_3
+http://163.172.103.172:8005/live/123454321/123454321/2788.ts
+#EXTINF:-1,AF | SUDAN | AFRICA_TV_4
+http://163.172.103.172:8005/live/123454321/123454321/2776.ts
+#EXTINF:-1,AF | SUDAN | ALSHOUROQ
+http://163.172.103.172:8005/live/123454321/123454321/2762.ts
+#EXTINF:-1,AF | SUDAN | BLUE_NILE
+http://163.172.103.172:8005/live/123454321/123454321/2763.ts
+#EXTINF:-1,AF | SUDAN | NEELAIN_SPORT
+http://163.172.103.172:8005/live/123454321/123454321/2761.ts
+#EXTINF:-1,AF | SUDAN | TAYBAH_TV
+http://163.172.103.172:8005/live/123454321/123454321/2760.ts
+#EXTINF:-1,AF | TV_MANA_MAPUTO
+http://163.172.103.172:8005/live/123454321/123454321/2773.ts
+
+#EXTM3U
+#EXTINF:-1,[AFG] AMC TV
+http://www.e900x.com:8000/live/soot3/93retno/1026.ts
+#EXTINF:-1,[AFG] ATN
+http://www.e900x.com:8000/live/soot3/93retno/1034.ts
+#EXTINF:-1,[AFG] ATN News
+http://www.e900x.com:8000/live/soot3/93retno/1033.ts
+#EXTINF:-1,[AFG] ATV
+http://www.e900x.com:8000/live/soot3/93retno/1560.ts
+#EXTINF:-1,[AFG] ATV Afghanistan
+http://www.e900x.com:8000/live/soot3/93retno/1035.ts
+#EXTINF:-1,[AFG] Arezo TV
+http://www.e900x.com:8000/live/soot3/93retno/1030.ts
+#EXTINF:-1,[AFG] Ariana Afghan USA
+http://www.e900x.com:8000/live/soot3/93retno/2041.ts
+#EXTINF:-1,[AFG] Jahan Numa TV
+http://www.e900x.com:8000/live/soot3/93retno/2035.ts
+#EXTINF:-1,[AFG] Kabul TV USA
+http://www.e900x.com:8000/live/soot3/93retno/2037.ts
+#EXTINF:-1,[AFG] Khurshid
+http://www.e900x.com:8000/live/soot3/93retno/1095.ts
+#EXTINF:-1,[AFG] Lemar
+http://www.e900x.com:8000/live/soot3/93retno/1983.ts
+#EXTINF:-1,[AFG] Mitra TV
+http://www.e900x.com:8000/live/soot3/93retno/1031.ts
+#EXTINF:-1,[AFG] Negaah
+http://www.e900x.com:8000/live/soot3/93retno/2034.ts
+#EXTINF:-1,[AFG] Noor TV
+http://www.e900x.com:8000/live/soot3/93retno/1025.ts
+#EXTINF:-1,[AFG] Payam e Afghan
+http://www.e900x.com:8000/live/soot3/93retno/2040.ts
+#EXTINF:-1,[AFG] RTA Afghanistan
+http://www.e900x.com:8000/live/soot3/93retno/1655.ts
+#EXTINF:-1,[AFG] RTA News
+http://www.e900x.com:8000/live/soot3/93retno/1041.ts
+#EXTINF:-1,[AFG] Rah e farda TV
+http://www.e900x.com:8000/live/soot3/93retno/1032.ts
+#EXTINF:-1,[AFG] Shamshad
+http://www.e900x.com:8000/live/soot3/93retno/1987.ts
+#EXTINF:-1,[AFG] Tamadon
+http://www.e900x.com:8000/live/soot3/93retno/1024.ts
+#EXTINF:-1,[AFG] Tolo HD
+http://www.e900x.com:8000/live/soot3/93retno/1063.ts
+#EXTINF:-1,[AFG] Tolo News HD
+http://www.e900x.com:8000/live/soot3/93retno/2033.ts
+#EXTINF:-1,[AFG] Tuti TV
+http://www.e900x.com:8000/live/soot3/93retno/1029.ts
+#EXTINF:-1,[AFR] Africa TV 1
+http://www.e900x.com:8000/live/soot3/93retno/1745.ts
+#EXTINF:-1,[AFR] Africa TV 2
+http://www.e900x.com:8000/live/soot3/93retno/2009.ts
+#EXTINF:-1,[AFR] Africa TV 3
+http://www.e900x.com:8000/live/soot3/93retno/2010.ts
+#EXTINF:-1,[AFR] Africa TV 4
+http://www.e900x.com:8000/live/soot3/93retno/1751.ts
+#EXTINF:-1,[AFR] Amhara TV
+http://www.e900x.com:8000/live/soot3/93retno/1804.ts
+#EXTINF:-1,[AFR] Ben Nigeria
+http://www.e900x.com:8000/live/soot3/93retno/2130.ts
+#EXTINF:-1,[AFR] ESTV
+http://www.e900x.com:8000/live/soot3/93retno/205.ts
+#EXTINF:-1,[AFR] ETV
+http://www.e900x.com:8000/live/soot3/93retno/1638.ts
+#EXTINF:-1,[AFR] Eritrea TV
+http://www.e900x.com:8000/live/soot3/93retno/266.ts
+#EXTINF:-1,[AFR] Horn Cable
+http://www.e900x.com:8000/live/soot3/93retno/1963.ts
+#EXTINF:-1,[AFR] Kalsan
+http://www.e900x.com:8000/live/soot3/93retno/1938.ts
+#EXTINF:-1,[AFR] Kana TV
+http://www.e900x.com:8000/live/soot3/93retno/235.ts
+#EXTINF:-1,[AFR] Nollywood
+http://www.e900x.com:8000/live/soot3/93retno/2131.ts
+#EXTINF:-1,[AFR] Oromia TV
+http://www.e900x.com:8000/live/soot3/93retno/676.ts
+#EXTINF:-1,[AFR] RTD Djibouti
+http://www.e900x.com:8000/live/soot3/93retno/2257.ts
+#EXTINF:-1,[AFR] SLNTV
+http://www.e900x.com:8000/live/soot3/93retno/1939.ts
+#EXTINF:-1,[AFR] SNTV
+http://www.e900x.com:8000/live/soot3/93retno/753.ts
+#EXTINF:-1,[AFR] Somali Cable
+http://www.e900x.com:8000/live/soot3/93retno/528.ts
+#EXTINF:-1,[AFR] Somaliland (SLN TV)
+http://www.e900x.com:8000/live/soot3/93retno/754.ts
+#EXTINF:-1,[AFR] Southern Ethiopia TV
+http://www.e900x.com:8000/live/soot3/93retno/1654.ts
+#EXTINF:-1,[AFR] Universal Somali
+http://www.e900x.com:8000/live/soot3/93retno/755.ts
